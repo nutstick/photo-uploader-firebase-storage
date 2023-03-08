@@ -1,6 +1,5 @@
 import { Inter } from 'next/font/google';
 import clsx from 'clsx';
-import styles from './page.module.css';
 import { ImagesDropzone } from './image-dropzone';
 
 const inter = Inter({ subsets: ['latin'] });
